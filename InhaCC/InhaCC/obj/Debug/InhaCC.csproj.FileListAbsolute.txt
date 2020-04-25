@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\obj\Debug\InhaCC.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\obj\Debug\InhaCC.MainForm.resources
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\obj\Debug\InhaCC.Properties.Resources.resources
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\obj\Debug\InhaCC.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\bin\Debug\InhaCC.exe.config
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\bin\Debug\InhaCC.exe
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\bin\Debug\InhaCC.pdb
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\bin\Debug\GraphVizWrapper.dll
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\obj\Debug\InhaCC.csproj.CopyComplete
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\obj\Debug\InhaCC.exe
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\obj\Debug\InhaCC.pdb
+C:\Users\HP\Desktop\compiler-compiler-master\InhaCC\InhaCC\obj\Debug\InhaCC.About.resources
