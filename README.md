@@ -1,2 +1,2 @@
 # compiler-compiler
-Compiler Compiler based on CSharp
+Lexical Compiler using  CSharp
